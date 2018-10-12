@@ -1,5 +1,5 @@
 """
-source：https://leetcode.com/problems/arranging-coins/
+source：https://leetcode.com/problems/array-partition-i/
 author: hpjhc
 date: 2018/10/9
 """
