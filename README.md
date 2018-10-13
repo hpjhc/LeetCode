@@ -15,3 +15,4 @@
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/python/PalindromeNumber.py) | Easy
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/python/RomanToInteger.py) | Easy
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](./algorithms/python/AssignCookies.py) | Easy
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix.py) | Easy
