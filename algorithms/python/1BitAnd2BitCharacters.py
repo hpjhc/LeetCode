@@ -10,12 +10,8 @@ class Solution:
         :type bits: List[int]
         :rtype: bool
         """
-        lens = len(bits)    
-        if lens == 1:
-            return True
-        if bits[0] == 0:
-            return isOneBitCharacter(bits[1:])
-        elif lens == 2:
-            return False
-        else:
-            return isOneBitCharacter(bits[2:])
+        bits.pop()
+        res = 0
+        while(bits and bits.pop()):
+            res += 1
+        return res % 2 == 0
