@@ -16,3 +16,4 @@
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/python/RomanToInteger.py) | Easy
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](./algorithms/python/AssignCookies.py) | Easy
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix.py) | Easy
+20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/ValidParentheses.py) | Easy
