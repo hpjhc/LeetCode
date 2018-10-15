@@ -11,14 +11,13 @@ def arrangeCoins(self, n):
     :type n: int
     :rtype: int
     """
-    from math import sqrt
-    if n == 0 or n == 1:
-        return n
-    else:
-        res = int(sqrt(n*2)) - 1
-        while (res**2+res)//2 < n:
-              res += 1 
-        if (res**2+res)//2 == n:
-            return res        
+    l = 0
+    r = n
+    while l < r:
+        mid = (l + r) // 2
+        res = n - mid * (mid + 1) // 2
+        if res > mid:
+            l = mid + 1          
         else:
-            return res - 1
+            r = mid
+    return l
