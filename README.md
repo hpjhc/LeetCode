@@ -20,3 +20,4 @@
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./algorithms/python/BestTimeToBuyAndSellStockII.py) | Easy
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./algorithms/python/MergeTwoSortedLists.py) | Easy
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/RemoveDuplicatesFromSortedArray.py) | Easy
+168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](./algorithms/python/ExcelSheetColumnTitle.py) | Easy
