@@ -22,3 +22,4 @@
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/RemoveDuplicatesFromSortedArray.py) | Easy
 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](./algorithms/python/ExcelSheetColumnTitle.py) | Easy
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/ImplementStrstr.py) | Easy
+35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/python/SearchInsertPosition.py) | Easy
