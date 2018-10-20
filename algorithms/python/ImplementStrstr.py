@@ -11,10 +11,7 @@ class Solution:
         :type needle: str
         :rtype: int
         """
-        if not needle:
-            return 0
-        str_len = len(needle)
-        for i in range(len(haystack)):
-            if haystack[i:i+str_len] == needle:
-                return i       
-        return -1
+        try:
+            return haystack.index(needle)
+        except ValueError:
+            return -1
